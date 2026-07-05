@@ -1,0 +1,207 @@
+{
+  "name": "TechJobMarketPulse Dark Theme",
+  "dataColors": [
+    "#3b4fd8",
+    "#4f6ef7",
+    "#6080fa",
+    "#7a96fc",
+    "#34d399",
+    "#60a5fa",
+    "#fbbf24",
+    "#f87171",
+    "#a78bfa",
+    "#fb923c"
+  ],
+  "background": "#0f1117",
+  "foreground": "#f9fafb",
+  "tableAccent": "#3b4fd8",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#1a1d27" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "color": { "solid": { "color": "#2d3148" } },
+            "show": true
+          }
+        ],
+        "fontColor": [
+          { "solid": { "color": "#f9fafb" } }
+        ],
+        "labelColor": [
+          { "solid": { "color": "#9ca3af" } }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#0f1117" } },
+            "transparency": 0
+          }
+        ],
+        "outspace": [
+          {
+            "color": { "solid": { "color": "#0f1117" } },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#1a1d27" } },
+            "transparency": 0
+          }
+        ],
+        "dataLabelColor": [
+          { "solid": { "color": "#f9fafb" } }
+        ],
+        "categoryLabelColor": [
+          { "solid": { "color": "#9ca3af" } }
+        ],
+        "border": [
+          {
+            "color": { "solid": { "color": "#2d3148" } },
+            "show": true,
+            "radius": 10
+          }
+        ]
+      }
+    },
+    "barChart": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#1a1d27" } },
+            "transparency": 0
+          }
+        ],
+        "dataColor": [
+          { "solid": { "color": "#3b4fd8" } }
+        ],
+        "axisColor": [
+          { "solid": { "color": "#2d3148" } }
+        ],
+        "labelColor": [
+          { "solid": { "color": "#9ca3af" } }
+        ],
+        "titleColor": [
+          { "solid": { "color": "#e5e7eb" } }
+        ],
+        "gridlineColor": [
+          { "solid": { "color": "#2d3148" } }
+        ]
+      }
+    },
+    "clusteredBarChart": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#1a1d27" } },
+            "transparency": 0
+          }
+        ],
+        "axisColor": [
+          { "solid": { "color": "#2d3148" } }
+        ],
+        "labelColor": [
+          { "solid": { "color": "#9ca3af" } }
+        ],
+        "titleColor": [
+          { "solid": { "color": "#e5e7eb" } }
+        ],
+        "gridlineColor": [
+          { "solid": { "color": "#2d3148" } }
+        ]
+      }
+    },
+    "pieChart": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#1a1d27" } },
+            "transparency": 0
+          }
+        ],
+        "labelColor": [
+          { "solid": { "color": "#9ca3af" } }
+        ],
+        "titleColor": [
+          { "solid": { "color": "#e5e7eb" } }
+        ]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#1a1d27" } },
+            "transparency": 0
+          }
+        ],
+        "fontColor": [
+          { "solid": { "color": "#f9fafb" } }
+        ],
+        "headerFontColor": [
+          { "solid": { "color": "#9ca3af" } }
+        ],
+        "backColor": [
+          { "solid": { "color": "#1a1d27" } }
+        ],
+        "headerBackColor": [
+          { "solid": { "color": "#0f1117" } }
+        ],
+        "gridColor": [
+          { "solid": { "color": "#2d3148" } }
+        ],
+        "accent": [
+          { "solid": { "color": "#3b4fd8" } }
+        ]
+      }
+    },
+    "textbox": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#0f1117" } },
+            "transparency": 100
+          }
+        ],
+        "fontColor": [
+          { "solid": { "color": "#f9fafb" } }
+        ]
+      }
+    }
+  },
+  "textClasses": {
+    "callout": {
+      "fontSize": 45,
+      "fontFace": "Segoe UI",
+      "color": "#f9fafb"
+    },
+    "title": {
+      "fontSize": 16,
+      "fontFace": "Segoe UI",
+      "color": "#f9fafb"
+    },
+    "header": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI",
+      "color": "#9ca3af"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#9ca3af"
+    }
+  }
+}
