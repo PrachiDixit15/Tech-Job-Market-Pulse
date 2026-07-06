@@ -52,8 +52,6 @@ Every year, thousands of freshers and job seekers apply blindly — without know
 
 ## 🖼️ Dashboard Preview
 
-> 📸 *Screenshots below — add your own by following the steps in the [How to Add Screenshots](#-how-to-add-screenshots-later) section.*
-
 | Skills Demand | Salary Insights |
 |---|---|
 | ![Skills Demand](screenshots/01_skills_demand.png) | ![Salary Insights](screenshots/02_salary_insights.png) |
@@ -69,7 +67,7 @@ Every year, thousands of freshers and job seekers apply blindly — without know
 ### Job Type Analysis
 <img src="screenshots/05_job_type_analysis.png" width="500">
 
-</div> |
+</div> 
 
 ---
 
