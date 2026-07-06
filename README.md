@@ -65,6 +65,11 @@ Every year, thousands of freshers and job seekers apply blindly — without know
 |:---:|
 | <img src="screenshots/05_job_type_analysis.png" width="420"> |
 
+<table align="center">
+<tr><th>Job Type Analysis</th></tr>
+<tr><td><img src="screenshots/05_job_type_analysis.png" width="420"></td></tr>
+</table>
+
 ---
 
 ## 🏗️ Project Architecture
