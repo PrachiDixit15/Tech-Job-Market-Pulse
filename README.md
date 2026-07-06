@@ -64,7 +64,12 @@ Every year, thousands of freshers and job seekers apply blindly — without know
 
 | Job Type Analysis |
 |---|
-| ![Job Type Analysis](screenshots/05_job_type_analysis.png) |
+| <div align="center">
+
+### Job Type Analysis
+<img src="screenshots/05_job_type_analysis.png" width="500">
+
+</div> |
 
 ---
 
