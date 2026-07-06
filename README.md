@@ -287,23 +287,6 @@ Open `TechJobMarketPulse.pbix` in Power BI Desktop.
 
 ---
 
-## 🖼️ How to Add Screenshots (Later)
-
-1. Take a screenshot of each Power BI page (Snipping Tool or Win+Shift+S)
-2. Create a folder named `screenshots` in your repository
-3. Name the files exactly:
-```
-01_skills_demand.png
-02_salary_insights.png
-03_job_market_map.png
-04_industry_insights.png
-05_job_type_analysis.png
-```
-4. Upload them to the `screenshots/` folder on GitHub
-5. They will automatically appear in the **Dashboard Preview** section above
-
----
-
 ## 🔮 Upcoming Features (Version 2.0)
 
 | Feature | Description | Status |
