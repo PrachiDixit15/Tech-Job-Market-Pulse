@@ -22,7 +22,7 @@ Every year, thousands of freshers and job seekers apply blindly — without know
 ---
 
 ## 🎯 Project Workflow
-
+```
 Raw Dataset (123,849 records)
          ↓
 🔵 Stage 1 — SQL Data Cleaning
