@@ -304,7 +304,7 @@ Open `TechJobMarketPulse.pbix` in Power BI Desktop.
 
 **Prachi Dixit**
 - GitHub: [@PrachiDixit15](https://github.com/PrachiDixit15)
-- LinkedIn: *Add your LinkedIn URL here*
+- LinkedIn: www.linkedin.com/in/prachidixit1504
 
 ---
 
