@@ -302,9 +302,11 @@ Open `TechJobMarketPulse.pbix` in Power BI Desktop.
 
 ## 📬 Contact
 
-**Prachi Dixit**
-- GitHub: [@PrachiDixit15](https://github.com/PrachiDixit15)
-- LinkedIn: www.linkedin.com/in/prachidixit1504
+<p align="center">
+<a href="https://github.com/PrachiDixit15"><img src="https://img.shields.io/badge/GitHub-PrachiDixit15-181717?style=for-the-badge&logo=github"></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Prachi%20Dixit-0077B5?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail"></a>
+</p>
 
 ---
 
