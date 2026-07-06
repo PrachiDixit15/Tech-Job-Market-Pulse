@@ -61,12 +61,9 @@ Every year, thousands of freshers and job seekers apply blindly — without know
 |---|---|
 | ![Job Market Map](screenshots/03_job_market_map.png) | ![Industry Insights](screenshots/04_industry_insights.png) |
 
-<div align="center">
-
-### Job Type Analysis
-<img src="screenshots/05_job_type_analysis.png" width="420">
-
-</div>
+| Job Type Analysis |
+|:---:|
+| <img src="screenshots/05_job_type_analysis.png" width="420"> |
 
 ---
 
